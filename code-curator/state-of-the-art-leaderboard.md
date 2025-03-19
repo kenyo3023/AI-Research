@@ -41,12 +41,14 @@
 | [SWE-bench]          | [arXiv][SWE-Bench-paper]          | Pass@1 | Varies  | Multiple (Based on Repo) | Evaluation of LLMs on real-world software engineering tasks, including bug fixes and feature implementation within existing codebases from various open-source projects.
 
 
+<br>
 
 ### [Practical Code Performance][claude-official-website] Evaluation
 
 ![claude-swe-bench-verified]
 
 
+<br>
 
 ### Metric Definition
 
